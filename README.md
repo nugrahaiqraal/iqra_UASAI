@@ -75,7 +75,6 @@ Lainnya:
 
 Link Dataset:
 - Kaggle: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
-- UCI: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/
 
 Penjelasan Dataset:
 
